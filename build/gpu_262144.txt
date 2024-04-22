@@ -1,0 +1,126 @@
+Main : Generating SEAL PArameters
+Main : Generating galois_keys
+Initializing server
+Map the keywords
+Initializing database
+Main: Creating the database with random data 
+Main: Starting to process the database
+Elements num is 262144
+database palintexts size is 16384
+database generated!
+Generate random query keyword
+Main : You want to fuzzy query all items containing 240983
+binary string generated
+query generated!
+Main : Relink size is 0
+query serialized!
+Query deserialized!
+Server : expanded over
+Server: expanded query multiply the keyword
+Server : add the keyword slot based on block encoding
+Server: start find the desire slot in keyword codeword
+multiply many over
+all will mul_plain times are 512
+The 0-th column over!
+multiply many over
+all will mul_plain times are 512
+The 1-th column over!
+multiply many over
+all will mul_plain times are 512
+The 2-th column over!
+multiply many over
+all will mul_plain times are 512
+The 3-th column over!
+multiply many over
+all will mul_plain times are 512
+The 4-th column over!
+multiply many over
+all will mul_plain times are 512
+The 5-th column over!
+multiply many over
+all will mul_plain times are 512
+The 6-th column over!
+multiply many over
+all will mul_plain times are 512
+The 7-th column over!
+multiply many over
+all will mul_plain times are 512
+The 8-th column over!
+multiply many over
+all will mul_plain times are 512
+The 9-th column over!
+multiply many over
+all will mul_plain times are 512
+The 10-th column over!
+multiply many over
+all will mul_plain times are 512
+The 11-th column over!
+multiply many over
+all will mul_plain times are 512
+The 12-th column over!
+multiply many over
+all will mul_plain times are 512
+The 13-th column over!
+multiply many over
+all will mul_plain times are 512
+The 14-th column over!
+multiply many over
+all will mul_plain times are 512
+The 15-th column over!
+multiply many over
+all will mul_plain times are 512
+The 16-th column over!
+multiply many over
+all will mul_plain times are 512
+The 17-th column over!
+multiply many over
+all will mul_plain times are 512
+The 18-th column over!
+multiply many over
+all will mul_plain times are 512
+The 19-th column over!
+multiply many over
+all will mul_plain times are 512
+The 20-th column over!
+multiply many over
+all will mul_plain times are 512
+The 21-th column over!
+multiply many over
+all will mul_plain times are 512
+The 22-th column over!
+multiply many over
+all will mul_plain times are 512
+The 23-th column over!
+multiply many over
+all will mul_plain times are 512
+The 24-th column over!
+multiply many over
+all will mul_plain times are 512
+The 25-th column over!
+multiply many over
+all will mul_plain times are 512
+The 26-th column over!
+multiply many over
+all will mul_plain times are 512
+The 27-th column over!
+multiply many over
+all will mul_plain times are 512
+The 28-th column over!
+multiply many over
+all will mul_plain times are 512
+The 29-th column over!
+multiply many over
+all will mul_plain times are 512
+The 30-th column over!
+multiply many over
+all will mul_plain times are 512
+The 31-th column over!
+next will add database entry !!!
+Reply generated!
+59 114 48 105 15 14 115 -92 31 -84 -111 83 -47 -39 -67 -95 80 -70 81 -115 -56 2 -55 -66 66 -68 64 95 -5 -114 -31 52 120 110 -39 -45 27 114 44 -30 83 63 -32 109 -94 56 -4 17 -66 -9 -127 36 -10 -109 -59 -76 -116 12 -24 -10 -56 40 -18 35 -8 6 -126 -52 -117 -12 -33 -47 -118 -43 -30 -108 -14 -54 65 12 -12 -18 127 -105 40 -78 44 114 -68 -38 -107 99 -91 77 0 -115 -101 21 42 38 60 -80 71 3 -63 27 -35 63 -76 -122 -62 92 -48 -45 -8 -104 89 26 92 50 -3 89 23 -4 -113 -48 92 31 36 85 125 -61 117 115 -93 74 -78 5 32 -54 -96 -17 -81 62 -122 -123 47 39 86 -50 -12 -58 -1 114 -97 -88 -88 -92 102 -72 -116 119 79 37 -100 -50 -88 50 -35 110 38 -88 -100 75 117 -54 87 -50 90 -40 108 13 -69 -95 43 4 -111 -83 35 -12 -28 32 -127 -7 105 -99 79 18 -58 -111 -28 37 -59 -117 -113 -51 35 95 3 -96 -88 78 -54 -108 15 -2 -93 101 126 44 -67 -82 -98 54 -60 -113 -78 -89 50 2 68 -108 -27 125 108 111 107 9 -110 2 -61 96 -111 74 -2 -69 -114 -54 87 -85 -18 -113 95 -103 -36 -120 90 -28 -36 116 106 -107 -49 -1 -83 8 111 -56 -118 74 -32 -95 54 -105 50 -109 -58 118 -68 -22 -67 -41 92 48 9 -122 50 80 -62 -38 104 47 -61 -78 -85 -47 -113 5 -47 18 -104 -44 -57 -41 12 105 53 -23 -6 80 -52 -102 75 -59 -105 97 86 72 88 123 8 102 -93 67 12 32 8 60 -37 17 -114 97 21 36 -3 74 -110 69 -57 -124 111 80 90 -10 38 71 79 -7 -119 99 -125 -69 -1 -98 4 13 82 -120 -6 -120 -80 -82 -73 22 93 65 -50 5 -106 22 -34 21 31 -14 1 30 50 51 0 89 -32 -112 -40 26 -90 97 77 -38 33 2 -41 -30 -23 -61 -74 -46 -20 -19 13 85 62 97 104 17 14 -68 53 94 -4 -59 -66 -69 -33 95 111 -20 -74 -114 6 -112 -14 31 -51 -121 19 -119 70 -88 70 92 125 74 33 0 -36 47 104 -72 -18 47 -9 67 53 -24 -18 61 -27 -19 13 38 6 -18 10 73 -113 120 104 -82 13 -128 31 33 125 96 -105 2 11 -123 16 -105 -41 -100 8 82 -51 -14 19 -18 -92 64 -16 116 -58 7 -69 -55 70 70 50 85 69 -30 79 -3 -54 -127 116 -18 -85 -71 68 -73 -53 6 68 19 -101 -45 -54 -2 9 35 -86 -36 -31 -49 -35 -15 85 80 7 -21 84 66 -88 5 -6 32 17 120 -33 -118 51 -40 3 34 -4 -85 51 80 40 118 -67 43 -15 96 -13 33 3 -89 -127 10 -58 -21 -101 94 23 10 122 99 2 -13 102 81 -30 3 10 -65 126 -27 88 -91 5 123 -71 24 -37 77 -67 -39 -25 -77 29 -38 89 27 19 30 -110 83 101 42 -107 -125 92 -90 112 40 -123 -70 12 124 111 -72 107 26 -60 79 -60 100 100 -49 -91 120 34 42 -91 -2 86 -94 81 -122 -78 15 -92 -32 19 83 17 -68 -113 -106 -64 -51 -111 -90 -61 114 55 17 59 -39 -43 71 82 -90 -37 30 -44 109 -32 -91 -91 -23 -32 -5 -33 -121 -64 114 -53 75 45 57 -101 10 -90 -109 -115 -71 45 47 126 103 -74 2 -106 -128 54 3 -27 -21 -19 -117 -21 -5 59 -119 -27 -117 27 98 -113 60 -45 90 -88 -58 91 -19 41 11 -74 11 -114 -30 99 -101 15 46 55 67 43 -108 -101 124 -72 -81 38 35 3 47 -36 -123 -42 10 6 -29 -107 -127 48 -16 -115 55 92 -102 -111 50 -123 -107 83 24 -27 102 115 27 -125 32 -104 -112 91 67 124 111 19 46 120 -79 7 -55 20 -60 -102 70 -67 69 -46 29 111 80 -34 -6 71 -92 -8 103 87 1 29 94 -35 12 6 14 124 106 -20 -70 90 -37 -21 49 -91 -26 -107 1 52 4 -100 -35 90 -49 13 97 -34 -126 -29 -98 -16 109 -106 -67 -92 56 121 -2 -113 50 -33 -121 26 -117 63 -106 113 -98 -59 30 80 -55 43 -33 112 58 -35 -109 -84 -75 -34 16 50 36 -86 -71 10 -42 -84 36 -85 65 41 74 82 16 -35 -28 33 78 38 -43 19 -12 -125 78 84 80 -96 43 113 11 78 -23 73 43 -113 -97 -85 4 127 53 -15 32 126 -15 73 117 -99 -66 -5 60 2 79 7 -103 20 -82 89 -71 -41 7 20 -8 53 107 -79 66 1 -30 -29 105 9 -10 125 -124 -44 109 127 124 83 39 -14 52 -124 95 -86 122 20 99 119 106 21 102 72 -100 33 35 59 89 13 -13 124 -41 60 -95 102 117 -65 120 56 -19 -107 75 51 108 45 -78 119 -63 82 -109 -106 -53 98 101 -71 0 80 -109 75 -2 -61 -119 -17 -19 72 52 -64 -106 104 -39 -14 19 1 -76 126 38 68 49 71 -73 -45 55 104 -46 -7 79 99 95 124 -99 44 -26 39 -80 -57 -92 -101 40 68 22 -61 65 47 44 50 71 -89 -5 -118 57 -67 -128 -65 -88 
+Main: PIR result conrrect!
+------------------GPU :-------------------
+Main: PIRClient query time is 11
+Main: PIRClient serialization time is 43
+Main: PIRClient deserialization time is 0
+Main: PIRServer reply time is 2613

@@ -1,0 +1,4 @@
+/home/wangshuquan/gpu_keywordpir/gpukeywordpir/Build/CMakeFiles/gpukeywordpir.dir
+/home/wangshuquan/gpu_keywordpir/gpukeywordpir/Build/CMakeFiles/main.dir
+/home/wangshuquan/gpu_keywordpir/gpukeywordpir/Build/CMakeFiles/edit_cache.dir
+/home/wangshuquan/gpu_keywordpir/gpukeywordpir/Build/CMakeFiles/rebuild_cache.dir

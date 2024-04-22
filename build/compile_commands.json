@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/wangshuquan/gpu_keywordpir/gpukeywordpir/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler  -I/home/wangshuquan/gpu_keywordpir/gpukeywordpir/include -g   -g -G -std=c++17 -x cu -c /home/wangshuquan/gpu_keywordpir/gpukeywordpir/src/pir.cu -o CMakeFiles/gpukeywordpir.dir/src/pir.cu.o",
+  "file": "/home/wangshuquan/gpu_keywordpir/gpukeywordpir/src/pir.cu"
+},
+{
+  "directory": "/home/wangshuquan/gpu_keywordpir/gpukeywordpir/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler  -I/home/wangshuquan/gpu_keywordpir/gpukeywordpir/include -g   -g -G -std=c++17 -x cu -c /home/wangshuquan/gpu_keywordpir/gpukeywordpir/src/client.cu -o CMakeFiles/gpukeywordpir.dir/src/client.cu.o",
+  "file": "/home/wangshuquan/gpu_keywordpir/gpukeywordpir/src/client.cu"
+},
+{
+  "directory": "/home/wangshuquan/gpu_keywordpir/gpukeywordpir/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler  -I/home/wangshuquan/gpu_keywordpir/gpukeywordpir/include -g   -g -G -std=c++17 -x cu -c /home/wangshuquan/gpu_keywordpir/gpukeywordpir/src/server.cu -o CMakeFiles/gpukeywordpir.dir/src/server.cu.o",
+  "file": "/home/wangshuquan/gpu_keywordpir/gpukeywordpir/src/server.cu"
+},
+{
+  "directory": "/home/wangshuquan/gpu_keywordpir/gpukeywordpir/build",
+  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler  -I/home/wangshuquan/gpu_keywordpir/gpukeywordpir/include -g   -g -G -std=c++17 -x cu -c /home/wangshuquan/gpu_keywordpir/gpukeywordpir/src/main.cu -o CMakeFiles/main.dir/src/main.cu.o",
+  "file": "/home/wangshuquan/gpu_keywordpir/gpukeywordpir/src/main.cu"
+}
+]

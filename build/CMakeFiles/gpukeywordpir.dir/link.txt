@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgpukeywordpir.a CMakeFiles/gpukeywordpir.dir/src/pir.cu.o CMakeFiles/gpukeywordpir.dir/src/client.cu.o CMakeFiles/gpukeywordpir.dir/src/server.cu.o
+/usr/bin/ranlib libgpukeywordpir.a
